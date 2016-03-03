@@ -9,7 +9,7 @@ namespace WebApplication1
     {
         public static void Main()
         {
-            System.Console.WriteLine("Hello");
+            System.Console.WriteLine("yayaya");
             System.Console.ReadLine();
         }
     }
